@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Training Management/bin/Debug/net8.0
+/Training Management/.vs
+/TrainingManagement_Common/obj
+/TrainingManagement.DAO/bin/Debug/net8.0
+/TrainingManagement.DAO/obj
+/TrainingManagement_Services/bin/Debug/net8.0
+/TrainingManagement_Services/obj
+/TrainingManagement_Common/bin/Debug/net8.0
+/Training Management/obj
